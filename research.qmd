@@ -35,7 +35,7 @@ The book asks how ethnic boundaries and support for ethnically-targeted policies
 
 ::: {.entry .entry--featured}
 
-[Second book project · In progress]{.entry__status}
+[Book project · In progress]{.entry__status}
 
 ::: {.entry__abstract}
 
@@ -105,7 +105,13 @@ The Thermostatic Effect of Judicial Independence on Public Support for Courts
 
 ::: {.entry__meta}
 
-Annual Meeting of the American Political Science Association, Vancouver, 13 September 2025
+Presented at the Annual Meeting of the American Political Science Association, Vancouver, 13 September 2025 with Brandon Bartels and Eric Kramon
+
+:::
+
+::: {.entry__abstract}
+
+Public support is critical to maintaining judicial power and independence in a political system. In comparative perspective, we know little about the drivers of aggregate, country-level public support around the world. We seek to fill this gap with (1) the development of a country-level measure of public support; and (2) an empirical analysis of the drivers of such support. We augment cross-national studies with a comparative case study of Kenya and Poland. Performance-based indicators like judicial corruption and judicial accountability strongly predict public support in expected directions. While de facto judicial independence is positively associated with public support, case studies suggest that independence matters more in combination with higher levels of performance. Partisan political factors are also associated with public support, though less so than performance-based factors. Finally, we show that many of the predictors of specific support also predict indicators of diffuse support, which suggests that both forms of support have similar foundations.
 
 :::
 

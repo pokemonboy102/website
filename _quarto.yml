@@ -32,7 +32,7 @@ website:
         href: mailto:schmot1@stolaf.edu
         aria-label: Email
       - icon: mortarboard-fill
-        href: https://scholar.google.com/
+        href: https://scholar.google.com/citations?user=6SUmQE8AAAAJ&hl=en
         aria-label: Google Scholar
       - text: "ORCID"
         href: https://orcid.org/0000-0001-9772-6374

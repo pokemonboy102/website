@@ -6,7 +6,7 @@ page-layout: full
 
 ::: {.hero}
 
-![Caleb H. Schmotter](images/headshot.jpg){.hero__portrait fig-alt="Portrait of Caleb H. Schmotter"}
+![](images/headshot.jpg){.hero__portrait fig-alt="Portrait of Caleb H. Schmotter"}
 
 ::: {.hero__copy}
 

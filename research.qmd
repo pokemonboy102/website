@@ -23,7 +23,51 @@ As a comparativist studying the effects of public policy on ethnic identity and 
 
 ::: {.entry__abstract}
 
-The book asks how ethnic boundaries and support for ethnically-targeted policies shift in response to variation in the way potential beneficiaries are defined. It draws on two original experiments fielded in May 2024 under a Doctoral Dissertation Grant from the Rapoport Family Foundation: a survey experiment among 1,800 White, Black, and Latino self-identifying adults in the United States, and a conjoint experiment among 900 Latino self-identifying adults. I find that individuals are more likely to perceive affirmative action as promoting equality of opportunity when eligibility is framed in more ascriptive terms, or when respondents themselves employ more ascriptive definitions of ethnicity. The conjoint complicates the picture – the two groups do not behave identically, and the difference is not one a single summary measure of ethnic attachment would capture. That gap is the manuscript's central puzzle. I am preparing the manuscript for a major university press by 2028.
+The book asks how ethnic boundaries and support for ethnically-targeted policies shift in response to variation in the way potential beneficiaries are defined. It draws on two original experiments fielded in May 2024 under a Doctoral Dissertation Grant from the Rapoport Family Foundation: a survey experiment among 1,800 White, Black, and Latino self-identifying adults in the United States, and a conjoint experiment among 900 Latino self-identifying adults. I find that individuals are more likely to perceive affirmative action as promoting equality of opportunity when eligibility is framed in more ascriptive terms, or when respondents themselves employ more ascriptive definitions of ethnicity. The conjoint complicates the picture – the two groups do not behave identically, and the difference is not one a single summary measure of ethnic attachment would capture. That gap is the manuscript's central puzzle. The pieces below are selections from the larger project.
+
+:::
+
+:::
+
+::: {.entry}
+
+::: {.entry__title}
+
+The Dimensions of Ethnicity: Understanding the Cognitive Architecture of Ethnic Group Membership
+
+:::
+
+::: {.entry__meta}
+
+*Journal of Race, Ethnicity, and Politics*, 2026, 1–34 · [doi:10.1017/rep.2026.10070](https://doi.org/10.1017/rep.2026.10070)
+
+:::
+
+::: {.entry__abstract}
+
+What makes someone belong to an ethnic group? This article examines how individuals organize and prioritize ethnic attributes frequently used to denote membership and asks when simplified measurement strategies provide a reasonable approximation of ethnic identity in practice. Using original survey data from two online experiments fielded in 2024, I analyze respondents' evaluations of eight common identity attributes among White, Black, and Latino Americans. Drawing on principal components analysis, multidimensional preference scaling, and circular-linear regression, I show that while some identities are well approximated by a single dominant dimension, others exhibit weaker alignment and greater heterogeneity in how attributes are prioritized. These differences have direct implications for measurement: reliance on any single attribute can meaningfully capture some identities while systematically misrepresenting others. More broadly, the findings underscore the need for group-sensitive measurement strategies when studying ethnic identity and its political and social consequences.
+
+:::
+
+:::
+
+::: {.entry}
+
+::: {.entry__title}
+
+The Myth of Ethnicity: Understanding the Relationship Between Genotype, Phenotype, and Ethnotype
+
+:::
+
+::: {.entry__meta}
+
+*Ethnopolitics*, 2025, 1–24 · [doi:10.1080/17449057.2025.2464506](https://doi.org/10.1080/17449057.2025.2464506)
+
+:::
+
+::: {.entry__abstract}
+
+The explosion of at-home DNA ancestry testing has unsettled how people understand their ethnic heritage and how they choose to identify. Behind these tests lies a critical intuition: if all ethnic identities have some combination of descent-based attributes in common, then they must have some combination of genetic material in common as well. But does genetic ancestry testing actually allow us to determine ethnicity? This article places the literature on ethnic identity into conversation with advances in genetic science and commercial genealogy to explain why the latter is incapable of predicting the former. The subjectivity inherent in selecting a system of categorization and the properties of gene expression and replication illustrate the difficulties involved in linking one concept to the other. Ultimately, this paper suggests that future technological advancements are unlikely to resolve these tensions, and urges the field of political science to be vigilant in educating communities about the differences between genetic ancestry and ethnotype.
 
 :::
 
@@ -112,54 +156,6 @@ Presented at the Annual Meeting of the American Political Science Association, V
 ::: {.entry__abstract}
 
 Public support is critical to maintaining judicial power and independence in a political system. In comparative perspective, we know little about the drivers of aggregate, country-level public support around the world. We seek to fill this gap with (1) the development of a country-level measure of public support; and (2) an empirical analysis of the drivers of such support. We augment cross-national studies with a comparative case study of Kenya and Poland. Performance-based indicators like judicial corruption and judicial accountability strongly predict public support in expected directions. While de facto judicial independence is positively associated with public support, case studies suggest that independence matters more in combination with higher levels of performance. Partisan political factors are also associated with public support, though less so than performance-based factors. Finally, we show that many of the predictors of specific support also predict indicators of diffuse support, which suggests that both forms of support have similar foundations.
-
-:::
-
-:::
-
-<hr class="boundary-rule">
-
-## Peer-Reviewed Articles
-
-::: {.entry}
-
-::: {.entry__title}
-
-The Dimensions of Ethnicity: Understanding the Cognitive Architecture of Ethnic Group Membership
-
-:::
-
-::: {.entry__meta}
-
-*Journal of Race, Ethnicity, and Politics*, 2026, 1–34 · [doi:10.1017/rep.2026.10070](https://doi.org/10.1017/rep.2026.10070)
-
-:::
-
-::: {.entry__abstract}
-
-What makes someone belong to an ethnic group? This article examines how individuals organize and prioritize ethnic attributes frequently used to denote membership and asks when simplified measurement strategies provide a reasonable approximation of ethnic identity in practice. Using original survey data from two online experiments fielded in 2024, I analyze respondents' evaluations of eight common identity attributes among White, Black, and Latino Americans. Drawing on principal components analysis, multidimensional preference scaling, and circular-linear regression, I show that while some identities are well approximated by a single dominant dimension, others exhibit weaker alignment and greater heterogeneity in how attributes are prioritized. These differences have direct implications for measurement: reliance on any single attribute can meaningfully capture some identities while systematically misrepresenting others. More broadly, the findings underscore the need for group-sensitive measurement strategies when studying ethnic identity and its political and social consequences.
-
-:::
-
-:::
-
-::: {.entry}
-
-::: {.entry__title}
-
-The Myth of Ethnicity: Understanding the Relationship Between Genotype, Phenotype, and Ethnotype
-
-:::
-
-::: {.entry__meta}
-
-*Ethnopolitics*, 2025, 1–24 · [doi:10.1080/17449057.2025.2464506](https://doi.org/10.1080/17449057.2025.2464506)
-
-:::
-
-::: {.entry__abstract}
-
-The explosion of at-home DNA ancestry testing has unsettled how people understand their ethnic heritage and how they choose to identify. Behind these tests lies a critical intuition: if all ethnic identities have some combination of descent-based attributes in common, then they must have some combination of genetic material in common as well. But does genetic ancestry testing actually allow us to determine ethnicity? This article places the literature on ethnic identity into conversation with advances in genetic science and commercial genealogy to explain why the latter is incapable of predicting the former. The subjectivity inherent in selecting a system of categorization and the properties of gene expression and replication illustrate the difficulties involved in linking one concept to the other. Ultimately, this paper suggests that future technological advancements are unlikely to resolve these tensions, and urges the field of political science to be vigilant in educating communities about the differences between genetic ancestry and ethnotype.
 
 :::
 

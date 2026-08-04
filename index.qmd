@@ -52,7 +52,7 @@ Analyzing Politics
 
 ::: {.now__desc}
 
-The required sophomore methods course, covering case studies, ethnography, archival research, content analysis, surveys, experiments, statistical modeling, and R. Students learn how to conduct research, present results, and understand "how we know what we know" in political science.
+The required sophomore methods course, covering case studies, ethnography, archival research, content analysis, surveys, experiments, statistical modeling, and R. Students learn how to conduct research, present results, and understand "how we know what we know" in political science. They then put these skills to the test via a semester-long research project, which requires students use both a qualitative and quantitative method to attempt to answer a research question of their choice. 
 
 :::
 

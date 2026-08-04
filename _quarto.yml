@@ -13,7 +13,7 @@ website:
   site-url: "https://calebschmotter.com"
   favicon: images/favicon.png
   navbar:
-    logo: images/headshot.jpg
+    logo: images/favicon.png
     title: "Caleb H. Schmotter"
     left:
       - href: index.qmd

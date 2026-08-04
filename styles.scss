@@ -96,13 +96,8 @@ h1, h2, h3, h4 {
   letter-spacing: -0.01em;
 }
 .navbar-brand-logo .navbar-logo {
-  width: 34px !important;
-  height: 34px !important;
-  max-height: 34px !important;
-  min-height: 34px !important;
-  spect-ratio: 1 / 1 !important;
+  border-radius: 50%;
   object-fit: cover;
-  border-radius: 100%;
 }
 .navbar .nav-link {
   font-size: 0.94rem;

@@ -1,0 +1,161 @@
+---
+title: "Teaching"
+pagetitle: "Teaching | Caleb H. Schmotter"
+---
+
+[Philosophy]{.eyebrow}
+
+As an educator, I believe it is important to remember what it was like to be a student (and to be sensitive to how much things have changed!). While coursework is and should be the primary focus for undergraduate students, it is hardly the only demand on their time. Nor is it the only way for students to mature and grow during their time in school.
+
+With this in mind, I design my courses with an eye towards engaging as many of our senses, experiences, and backgrounds as possible. Especially in the age of GAI, this helps not only to spur participation and maximize retention, but also to illustrate the relevance and applicability of the skills and knowledge we build together. If an instructor tells us something, we may or may not remember. And simply asking students to write ensures at least some will choose the path of least resistance. But if we are challenged to apply that knowledge, we have a chance to practice empathy and gain a deeper, more intuitive understanding of the types of decisions facing political actors each and every day.
+
+<hr class="boundary-rule">
+
+[Experiential Learning]{.eyebrow}
+
+## Two Ways of Doing the Same Thing
+
+Nearly everything I teach runs through one of two modes of experiential learning. In my substantive courses the format is simulation; in the research methods course it is the lab. From the doorway they look almost nothing alike, and a visitor who walked past a plenary session of the Congress of Vienna on Wednesday and a room full of students staring at regression output on Thursday would be forgiven for concluding that the two courses had been designed by different people, but they rest on the same conviction: that a student should have to operate a concept rather than restate it, and should be assessed on how they operates it rather than on whether they happened to come out ahead. A delegate is not graded on keeping they territory. A student conducting surveys is not graded on finding a significant coefficient. Both are graded on what they did with what they had, and on whether they can say afterward why they did it.
+
+<hr class="boundary-rule">
+
+## Simulations
+
+::: {.statement}
+
+A student can be told what it feels like to run out of time, out of allies, and out of good options. It tends to land rather differently when it happens to them on a Thursday afternoon.
+
+:::
+
+Because so much of the work in these courses happens out loud and in front of other people, I have tried to build an assessment scheme that measures it where it actually occurs. Drawing on the *Reacting to the Past* pedagogy, students are graded on formal speeches delivered in class, on writing produced in role (e.g. position papers; treaties; edicts; the occasional furious petition), and on reflective writings in which they step outside their character in order to make sense of what they and their classmates actually did. I define participation in advance and in writing, rather than leaving it to whatever impression I happen to have formed by the end of the term. Students who are not naturally inclined to speak first deserve to know what is being asked of them and when it is coming.
+
+Alongside the multi-week games, shorter simulations run throughout the semester: two-level bargaining, coalition formation, and crisis negotiation against a deadline. In my *World Politics* course, there are five of these before the Congress of Vienna begins, and they carry a quarter of the grade on their own, which is deliberate – a student who has never had to improvise under time pressure in a low-stakes room will not suddenly manage it in a plenary session with forty percent of the course riding on it. The aim throughout is that a concept introduced in Monday's reading is something students have to attempt to implement themselves by Friday. Thus the reading is not a prelude to the work of the course; it is equipment for it.
+
+<hr class="boundary-rule">
+
+## Labs
+
+*Analyzing Politics* covers case studies, ethnography, archival research, content analysis, surveys, experiments, statistical modeling, and how to use R, which is a great deal of ground for a single required sophomore course. Each method we discuss is paired with a guided lab in which students work through it themselves rather than watch me present it on a slide. I focus on helping students understand the intuitions behind the approach before the mechanics themselves, and the ordering is deliberate rather than incidental: a student who can execute code without knowing what the code is doing has learned something, but not the thing the course exists to teach. In the hypothesis testing portion of the course we run most of our work through a single question – is this result actually weird? – which carries students a good deal further than the formal vocabulary does, at least until they have enough intuition to hang the formal vocabulary on. 
+
+The labs themselves vary with the method. When we discuss ethnography, two thirds of the class become research subjects competing at some deliberately absurd task – building the tallest structure they can manage out of drinking straws, say – while the remaining third take on the role of budding ethnographers and record what they observe. When I teach archival work, students are handed a mini-archive on the Falcon Lake incident, a 1967 UFO sighting in Manitoba whose documentary record is fragmentary, mutually contradictory, and entirely earnest in tone, which is precisely what recommends it. Other sessions run interviews, or a survey experiment in which the students are themselves the respondents, so that the framing effects they will later encounter in published work are ones they have already been subjected to without noticing.
+
+Labs are graded entirely on participation, in parallel to my approach to simulations: a student who conducts a clumsy interview and can explain afterward what went wrong has done the assignment, while a student who produces a clean transcript without noticing that she led her respondent has not. In this way the cost of attempting a method and failing at it is held at zero, which is the only condition under which a sophomore will attempt eight of them in a single semester.
+
+The cumulative work sits elsewhere. Each student carries one research question from the first week of the term to the last, and the requirement is that they attempt to answer it twice, once with a qualitative method and once with a quantitative one. The aim is not that anyone should leave with a favorite. It is that they should leave having actually done political science in several of its modes, and knowing from the inside, rather than from a textbook's summary of the methodological debate, what each of those modes can and cannot tell you about a question they have chosen and care about.
+
+<hr class="boundary-rule">
+
+## Courses Taught
+
+::: {.course-block}
+
+### St. Olaf College
+
+::: {.course-block__role}
+
+Visiting Assistant Professor
+
+:::
+
+::: {.course-list}
+
+- [PSCI 220]{.code} Analyzing Politics <span class="terms">— Fall 2025, Spring 2026 (two sections), Fall 2026</span><span class="rttp">LAB</span>
+- [PSCI 258]{.code} World Politics <span class="terms">— Fall 2025, Fall 2026</span><span class="rttp">SIM</span>
+- [PSCI 299]{.code} Blood Runs Thicker: Descent-Based Identities in Global Perspective <span class="terms">— January Term 2026</span>
+- [PSCI 299A]{.code} Tyrants, Demagogues, and Democrats: Athens & India at Critical Junctures <span class="terms">— Spring 2026</span><span class="rttp">SIM</span>
+
+:::
+
+:::
+
+::: {.course-block}
+
+### George Washington University
+
+::: {.course-block__role}
+
+Instructor of Record
+
+:::
+
+::: {.course-list}
+
+- [PSC 3500]{.code} Maladroit Monarchs: Tradition vs Reform in China and England <span class="terms">— Spring 2025, capstone</span><span class="rttp">SIM</span>
+- [PSC 2101]{.code} Scope and Methods of Political Science <span class="terms">— Summers 2023, 2024, 2025</span><span class="rttp">LAB</span>
+- [PSC 1000]{.code} Tyrants, Demagogues, and Democrats: Athens & India at Critical Junctures <span class="terms">— Fall 2023, Dean's First-Year Seminar</span><span class="rttp">SIM</span>
+
+:::
+
+::: {.course-block__role}
+
+Teaching Assistant
+
+:::
+
+::: {.course-list}
+
+- [PSC 1001]{.code} Introduction to Comparative Politics <span class="terms">— with Dr. Eric Kramon, Fall 2022; three weekly sections</span>
+- [IAFF 1005]{.code} Introduction to International Affairs <span class="terms">— with Dr. Alexander Downes and Dr. Michael Brown, Elliott School, Fall 2020 through Spring 2023; two weekly sections</span>
+
+:::
+
+:::
+
+::: {.course-block}
+
+### Guangxi Normal University
+
+::: {.course-block__role}
+
+Instructor
+
+:::
+
+::: {.course-list}
+
+- The Threshold of Democracy: Athens in 403 B.C. <span class="terms">— Spring 2015</span><span class="rttp">SIM</span>
+- English Speaking 3 & 4, English Writing 1, Western Culture, Women's Choir <span class="terms">— 2013–2015</span>
+
+:::
+
+:::
+
+::: {.course-block}
+
+### Drake University
+
+::: {.course-block__role}
+
+Teaching Assistant, Reacting to the Past Seminars
+
+:::
+
+::: {.course-list}
+
+- Henry VIII and the Reformation Parliament <span class="terms">— with Prof. Elizabeth Robertson, 2010–2012</span><span class="rttp">SIM</span>
+- The Threshold of Democracy: Athens in 403 B.C.<span class="rttp">SIM</span>
+- Defining a Nation: India on the Eve of Independence, 1945<span class="rttp">SIM</span>
+- Confucianism and the Succession Crisis of the Wanli Emperor, 1587<span class="rttp">SIM</span>
+
+:::
+
+:::
+
+<hr class="boundary-rule">
+
+[Recognition]{.eyebrow}
+
+::: {.course-list}
+
+- **Best Instructor of Record**, Department of Political Science, George Washington University <span class="terms">— Spring 2025</span>
+- **Best Teaching Assistant for an Introductory Course**, George Washington University <span class="terms">— Fall 2022</span>
+- **Dean's Graduate Instructorship**, George Washington University <span class="terms">— Fall 2023</span>
+- **APSA Teaching and Learning Conference**, participant <span class="terms">— 2024, 2025, 2026</span>
+
+:::
+
+<hr class="boundary-rule">
+
+[Sample Materials]{.eyebrow}
+
+<a class="dl" href="files/tyrants-demagogues-and-democrats.pdf" target="_blank">Sample Syllabus (PDF)</a>

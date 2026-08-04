@@ -1,0 +1,49 @@
+---
+title: "About"
+pagetitle: "About | Caleb H. Schmotter"
+---
+
+[Biography]{.eyebrow}
+
+Salutations! Today, I am a [Visiting Assistant Professor](https://www.stolaf.edu/profile/schmot1) in [Political Science](https://wp.stolaf.edu/poli-sci/) at [St. Olaf College](https://wp.stolaf.edu/). The primary focus of my research investigates the structure and function of ethnic identity, with a focus on the effects of public policy on race and ethnicity in the United States and South Asia. I also have a secondary area of research on the politics of public support for judiciaries, and the contexts under which such support can protect judicial institutions from would-be autocrats.
+
+Prior to St. Olaf, I completed my doctorate at George Washington University, where I studied how formal, government definitions of racial and ethnic identity in the United States influence perceptions of group boundaries. My dissertation, *Boundaries of Belonging: The Structure and Stability of Ethnic Identity*, was directed by Henry Hale, with Eric Kramon and Janet I. Lewis. I earned my M.A. in International Peace & Conflict Resolution from American University, with a focus on negotiation and mediation. During this time, I also served as a campus dialogue facilitator, helping students, staff, and faculty have meaningful (and often difficult) conversations around issues of race and racism on our campus.
+
+Before starting my graduate studies, I lived in Guilin, China for two years where I worked as a foreign teacher and deputy director of international staff at Guangxi Normal University. I also hold a B.A. in International Relations and Politics (double major) and a B.S. in Biochemistry, Cell, and Molecular Biology from Drake University.
+
+<hr class="boundary-rule">
+
+[Education]{.eyebrow}
+
+::: {.course-list}
+
+- **Ph.D., Political Science** <span class="terms">— George Washington University, 2025. Comparative Politics and Research Methods</span>
+- **M.A., International Peace & Conflict Resolution** <span class="terms">— American University, School of International Service, 2018</span>
+- **B.A., International Relations and Politics; B.S., Biochemistry, Cell, and Molecular Biology** <span class="terms">— Drake University, 2013</span>
+
+:::
+
+<hr class="boundary-rule">
+
+[Grants and Fellowships]{.eyebrow}
+
+::: {.course-list}
+
+- **Doctoral Dissertation Grant**, Rapoport Family Foundation <span class="terms">— 2024–2025</span>
+- **Dean's Graduate Instructorship**, George Washington University <span class="terms">— Fall 2023</span>
+- **Academic Grant**, Sawtooth Software <span class="terms">— October 2022</span>
+- **Columbian Distinguished Fellow Award**, George Washington University <span class="terms">— 2019, renewable five years</span>
+
+:::
+
+<hr class="boundary-rule">
+
+[Curriculum Vitae]{.eyebrow}
+
+<a class="dl" href="cv/schmotter-cv.pdf" target="_blank">Download CV (PDF)</a>
+
+<hr class="boundary-rule">
+
+[Office Hours · Fall 2026]{.eyebrow}
+
+Holland Hall 422, Monday, Wednesday, and Friday, 9:00–10:30am and 2:00–3:30pm. I am also happy to meet by appointment, and email is usually the fastest way to find me.

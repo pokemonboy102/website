@@ -1,0 +1,206 @@
+---
+title: "Research"
+pagetitle: "Research | Caleb H. Schmotter"
+---
+
+[Overview]{.eyebrow}
+
+As a comparativist studying the effects of public policy on ethnic identity and political behavior, I focus on a variety of countries and regions including South Asia, the states of the former Soviet Union, China, the United States, and Brazil. Combined with my undergraduate background in biochemistry and graduate training in research methodology, my research portfolio is an eclectic mix of judicial politics, ethnic politics, survey methods, and Bayesian data analysis.
+
+<hr class="boundary-rule">
+
+## Boundaries of Belonging
+
+::: {.entry .entry--featured}
+
+[Book project · Under development]{.entry__status}
+
+::: {.entry__title}
+
+*Boundaries of Belonging: The Structure and Stability of Ethnic Identity*
+
+:::
+
+::: {.entry__abstract}
+
+The book asks how ethnic boundaries and support for ethnically-targeted policies shift in response to variation in the way potential beneficiaries are defined. It draws on two original experiments fielded in May 2024 under a Doctoral Dissertation Grant from the Rapoport Family Foundation: a survey experiment among 1,800 White, Black, and Latino self-identifying adults in the United States, and a conjoint experiment among 900 Latino self-identifying adults. I find that individuals are more likely to perceive affirmative action as promoting equality of opportunity when eligibility is framed in more ascriptive terms, or when respondents themselves employ more ascriptive definitions of ethnicity. The conjoint complicates the picture – the two groups do not behave identically, and the difference is not one a single summary measure of ethnic attachment would capture. That gap is the manuscript's central puzzle. I am preparing the manuscript for a major university press by 2028.
+
+:::
+
+:::
+
+<hr class="boundary-rule">
+
+## High Courts and Court-Curbing
+
+::: {.entry .entry--featured}
+
+[Second book project · In progress]{.entry__status}
+
+::: {.entry__abstract}
+
+With Brandon Bartels and Eric Kramon, I am building a global account of when public support protects high courts from the leaders who would curb them. The project rests on a Bayesian dynamic latent trait model, borrowing from Christopher Claassen's work on democratic mood, that pools survey data across time and space in order to produce country-year estimates of public support for high courts in 145 countries from 1981 to 2024. Merged with V-Dem measures of court-curbing, the estimates show that elite attacks raise the likelihood of court-curbing, that public support significantly attenuates that link, and that the attenuation is strongest precisely where theories of judicial independence have long assumed it would be, which is to say in more open societies and during moments of salient threats. The pieces below are selections from the larger project.
+
+:::
+
+:::
+
+::: {.entry}
+
+[R&R · *Comparative Political Studies*]{.entry__status}
+
+::: {.entry__title}
+
+Can Public Support Insulate High Courts from Court-Curbing? Testing a Comparative Theory with a New Global Dataset
+
+:::
+
+::: {.entry__meta}
+
+With Brandon Bartels and Eric Kramon
+
+:::
+
+::: {.entry__abstract}
+
+The idea that public support protects judicial independence is central to numerous theories in judicial politics. Yet this claim has been subjected to limited, direct empirical scrutiny in global context. We argue that public accountability and civil society mobilization are mechanisms through which the public can protect the judiciary, and that these mechanisms should matter most when courts face salient court-curbing threats. When elite attacks on courts increase the likelihood of court-curbing, public support significantly attenuates that connection. Our results have implications for literatures on judicial independence, judicial decision-making, and democratic erosion.
+
+:::
+
+:::
+
+::: {.entry}
+
+[R&R · *Political Science Research and Methods*]{.entry__status}
+
+::: {.entry__title}
+
+Public Support for the Judiciary around the World: A New Cross-National Measure, 1981–2024
+
+:::
+
+::: {.entry__meta}
+
+With Brandon Bartels and Eric Kramon
+
+:::
+
+::: {.entry__abstract}
+
+Public support features prominently in theory related to judicial independence and judicial power. Yet a lack of globally comparable data, across countries and over time, has limited researchers' ability to test these ideas. This paper introduces the first global measure of public support for the judiciary that addresses this gap. We produce country-year estimates by gathering courts-related measures of trust, satisfaction, and approval from international surveys and estimating a Bayesian group-level dynamic item-response-theory model, and we provide evidence of construct, convergent, discriminant, and predictive validity using independent V-Dem data. These data create new opportunities to study how the public shapes judicial independence, power, and the rule of law.
+
+:::
+
+:::
+
+::: {.entry}
+
+[Presented · APSA 2025]{.entry__status}
+
+::: {.entry__title}
+
+The Thermostatic Effect of Judicial Independence on Public Support for Courts
+
+:::
+
+::: {.entry__meta}
+
+Annual Meeting of the American Political Science Association, Vancouver, 13 September 2025
+
+:::
+
+:::
+
+<hr class="boundary-rule">
+
+## Peer-Reviewed Articles
+
+::: {.entry}
+
+::: {.entry__title}
+
+The Dimensions of Ethnicity: Understanding the Cognitive Architecture of Ethnic Group Membership
+
+:::
+
+::: {.entry__meta}
+
+*Journal of Race, Ethnicity, and Politics*, 2026, 1–34 · [doi:10.1017/rep.2026.10070](https://doi.org/10.1017/rep.2026.10070)
+
+:::
+
+::: {.entry__abstract}
+
+What makes someone belong to an ethnic group? This article examines how individuals organize and prioritize ethnic attributes frequently used to denote membership and asks when simplified measurement strategies provide a reasonable approximation of ethnic identity in practice. Using original survey data from two online experiments fielded in 2024, I analyze respondents' evaluations of eight common identity attributes among White, Black, and Latino Americans. Drawing on principal components analysis, multidimensional preference scaling, and circular-linear regression, I show that while some identities are well approximated by a single dominant dimension, others exhibit weaker alignment and greater heterogeneity in how attributes are prioritized. These differences have direct implications for measurement: reliance on any single attribute can meaningfully capture some identities while systematically misrepresenting others. More broadly, the findings underscore the need for group-sensitive measurement strategies when studying ethnic identity and its political and social consequences.
+
+:::
+
+:::
+
+::: {.entry}
+
+::: {.entry__title}
+
+The Myth of Ethnicity: Understanding the Relationship Between Genotype, Phenotype, and Ethnotype
+
+:::
+
+::: {.entry__meta}
+
+*Ethnopolitics*, 2025, 1–24 · [doi:10.1080/17449057.2025.2464506](https://doi.org/10.1080/17449057.2025.2464506)
+
+:::
+
+::: {.entry__abstract}
+
+The explosion of at-home DNA ancestry testing has unsettled how people understand their ethnic heritage and how they choose to identify. Behind these tests lies a critical intuition: if all ethnic identities have some combination of descent-based attributes in common, then they must have some combination of genetic material in common as well. But does genetic ancestry testing actually allow us to determine ethnicity? This article places the literature on ethnic identity into conversation with advances in genetic science and commercial genealogy to explain why the latter is incapable of predicting the former. The subjectivity inherent in selecting a system of categorization and the properties of gene expression and replication illustrate the difficulties involved in linking one concept to the other. Ultimately, this paper suggests that future technological advancements are unlikely to resolve these tensions, and urges the field of political science to be vigilant in educating communities about the differences between genetic ancestry and ethnotype.
+
+:::
+
+:::
+
+<hr class="boundary-rule">
+
+## Planned Work
+
+::: {.entry}
+
+[Prospective]{.entry__status}
+
+::: {.entry__title}
+
+A Tamil Nadu extension
+
+:::
+
+::: {.entry__abstract}
+
+I plan to adapt my measurement approach for self-identified Tamils and Vanniyars in India. Both identities are highly salient and Tamil Nadu maintains reservations for both, which makes the state an unusually direct test of whether the American findings travel. The study has not yet been fielded.
+
+:::
+
+:::
+
+::: {.entry}
+
+[Prospective]{.entry__status}
+
+::: {.entry__title}
+
+A group-deliberation conjoint
+
+:::
+
+::: {.entry__abstract}
+
+A replication of the conjoint experiment that replaces individual respondents with small discussion groups, in order to test whether classification norms emerge from aggregated individual views or from interaction itself.
+
+:::
+
+:::
+
+<hr class="boundary-rule">
+
+[Identifiers]{.eyebrow}
+
+ORCID: [0000-0001-9772-6374](https://orcid.org/0000-0001-9772-6374)

@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+    - files/
+    - cv/
+    - images/
+
+website:
+  title: "Caleb H. Schmotter"
+  description: "Comparative politics, ethnic identity, and judicial institutions."
+  site-url: "https://calebschmotter.com"
+  favicon: images/favicon.png
+  navbar:
+    logo: images/headshot.jpg
+    title: "Caleb H. Schmotter"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv/schmotter-cv.pdf
+        text: CV
+        target: _blank
+    right:
+      - icon: envelope
+        href: mailto:schmot1@stolaf.edu
+        aria-label: Email
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/
+        aria-label: Google Scholar
+      - text: "ORCID"
+        href: https://orcid.org/0000-0001-9772-6374
+        aria-label: ORCID
+  page-footer:
+    left: |
+      Department of Political Science<br>
+      St. Olaf College<br>
+      1520 St. Olaf Avenue, Northfield, MN 55057
+    center: |
+      Holland Hall 422<br>
+      [schmot1@stolaf.edu](mailto:schmot1@stolaf.edu)<br>
+      [ORCID: 0000-0001-9772-6374](https://orcid.org/0000-0001-9772-6374)
+    right: |
+      Built with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    include-in-header: _includes/fonts.html
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true

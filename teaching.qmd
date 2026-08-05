@@ -132,7 +132,7 @@ Instructor
 
 ::: {.course-block__role}
 
-Teaching Assistant, Reacting to the Past Seminars
+Teaching Assistant
 
 :::
 

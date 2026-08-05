@@ -82,7 +82,7 @@ Instructor of Record
 
 ::: {.course-list}
 
-- [PSC 3500]{.code} Maladroit Monarchs: Tradition vs Reform in China and England <span class="terms">— Spring 2025, capstone</span><span class="rttp">SIM</span>
+- [PSC 3500]{.code} Maladroit Monarchs: Tradition vs Reform in China and England <span class="terms">— Spring 2025, Capstone</span><span class="rttp">SIM</span>
 - [PSC 2101]{.code} Scope and Methods of Political Science <span class="terms">— Summer 2023, Summer 2024, Summer 2025</span><span class="rttp">LAB</span>
 - [PSC 1000]{.code} Tyrants, Demagogues, and Democrats: Athens & India at Critical Junctures <span class="terms">— Fall 2023, Dean's First-Year Seminar</span><span class="rttp">SIM</span>
 
@@ -138,10 +138,10 @@ Teaching Assistant, Reacting to the Past Seminars
 
 ::: {.course-list}
 
-- Henry VIII and the Reformation Parliament <span class="terms">— with Prof. Elizabeth Robertson, 2010–2012</span><span class="rttp">SIM</span>
-- The Threshold of Democracy: Athens in 403 B.C.<span class="rttp">SIM</span>
-- Defining a Nation: India on the Eve of Independence, 1945<span class="rttp">SIM</span>
-- Confucianism and the Succession Crisis of the Wanli Emperor, 1587<span class="rttp">SIM</span>
+- Henry VIII and the Reformation Parliament <span class="terms">— with Prof. Elizabeth Robertson, Fall 2012, First-Year Seminar</span><span class="rttp">SIM</span>
+- The Threshold of Democracy: Athens in 403 B.C. <span class="terms">— with Prof. Elizabeth Robertson, Fall 2012, First-Year Seminar</span><span class="rttp">SIM</span>
+- Defining a Nation: India on the Eve of Independence, 1945 <span class="terms">— with Prof. Elizabeth Robertson, Fall 2010, Fall 2011, First-Year Seminar</span><span class="rttp">SIM</span>
+- Confucianism and the Succession Crisis of the Wanli Emperor, 1587 <span class="terms">— with Prof. Elizabeth Robertson, Fall 2010, Fall 2011, First-Year Seminar</span><span class="rttp">SIM</span>
 
 :::
 

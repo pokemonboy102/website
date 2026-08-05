@@ -13,9 +13,11 @@ With this in mind, I design my courses with an eye towards engaging as many of o
 
 [Experiential Learning]{.eyebrow}
 
-## Two Ways of Doing the Same Thing
+## Two Approaches, One Instinct
 
-Nearly everything I teach runs through one of two modes of experiential learning. In my substantive courses the format is simulation; in the research methods course it is the lab. From the doorway they look almost nothing alike, and a visitor who walked past a plenary session of the Congress of Vienna on Wednesday and a room full of students staring at regression output on Thursday would be forgiven for concluding that the two courses had been designed by different people, but they rest on the same conviction: that a student should have to operate a concept rather than restate it, and should be assessed on how they operates it rather than on whether they happened to come out ahead. A delegate is not graded on keeping they territory. A student conducting surveys is not graded on finding a significant coefficient. Both are graded on what they did with what they had, and on whether they can say afterward why they did it.
+Nearly everything I teach runs through one of two modes of experiential learning. In my substantive courses the format is simulation; in the research methods course it is the lab. From the doorway they look almost nothing alike, and a visitor who walked past a plenary session of the Congress of Vienna on Wednesday and a room full of students staring at regression output on Thursday would be forgiven for concluding that the two courses had been designed by different people, but they rest on the same conviction: a student should have to operate a concept rather than restate it, and be judged on how they operate it rather than on whether it happened to work out.
+
+Operating a concept is not the same thing as mastering it, of course, but I've found it's a necessary precondition. Mastery, as I mean it here, is closer to intuition than to knowledge – not just knowing that a coalition is fragile, or that a small sample inflates uncertainty, but sensing it, the way you'd sense a coalition wobble before you could say exactly why. That kind of understanding isn't primarily verbal, and I don't think it can be read into being; it accumulates in the body, through the actual doing of things: standing to speak when you'd rather not, watching an argument you built come apart in real time, handling data that resists the story you wanted it to tell. Both simulation and lab, in their own ways, are my attempt to give students enough of that kind of doing in a semester that some of it starts to become instinct.
 
 <hr class="boundary-rule">
 

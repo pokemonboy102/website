@@ -83,7 +83,7 @@ Instructor of Record
 ::: {.course-list}
 
 - [PSC 3500]{.code} Maladroit Monarchs: Tradition vs Reform in China and England <span class="terms">— Spring 2025, capstone</span><span class="rttp">SIM</span>
-- [PSC 2101]{.code} Scope and Methods of Political Science <span class="terms">— Summers 2023, 2024, 2025</span><span class="rttp">LAB</span>
+- [PSC 2101]{.code} Scope and Methods of Political Science <span class="terms">— Summer 2023, Summer 2024, Summer 2025</span><span class="rttp">LAB</span>
 - [PSC 1000]{.code} Tyrants, Demagogues, and Democrats: Athens & India at Critical Junctures <span class="terms">— Fall 2023, Dean's First-Year Seminar</span><span class="rttp">SIM</span>
 
 :::
@@ -116,7 +116,11 @@ Instructor
 ::: {.course-list}
 
 - The Threshold of Democracy: Athens in 403 B.C. <span class="terms">— Spring 2015</span><span class="rttp">SIM</span>
-- English Speaking 3 & 4, English Writing 1, Western Culture, Women's Choir <span class="terms">— 2013–2015</span>
+- Women's Choir <span class="terms">— Spring 2015</span>
+- English Speaking 4 <span class="terms">— Spring 2015</span>
+- English Speaking 3 <span class="terms">— Fall 2013, Fall 2014</span>
+- English Writing 1 <span class="terms">— Spring 2014</span>
+- Western Culture <span class="terms">— Fall 2013</span>
 
 :::
 

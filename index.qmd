@@ -21,7 +21,7 @@ Visiting Assistant Professor of Political Science<br>
 
 :::
 
-::: {.boundary-rule .boundary-rule--short}
+::: {.boundary-rule}
 :::
 
 ::: {.hero__thesis}

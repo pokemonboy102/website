@@ -97,7 +97,7 @@ Teaching Assistant
 ::: {.course-list}
 
 - [PSC 1001]{.code} Introduction to Comparative Politics <span class="terms">— with Dr. Eric Kramon, Fall 2022; three weekly sections</span>
-- [IAFF 1005]{.code} Introduction to International Affairs <span class="terms">— with Dr. Alexander Downes and Dr. Michael Brown, Elliott School, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Spring 2023; two weekly sections</span>
+- [IAFF 1005]{.code} Introduction to International Affairs <span class="terms">— with Dr. Alexander Downes (Fall 2020, Spring 2021, Fall 2021, Spring 2022) and Dr. Michael Brown (Spring 2023), Elliott School of International Affairs; two weekly sections</span>
 
 :::
 

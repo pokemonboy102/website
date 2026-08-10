@@ -31,6 +31,8 @@ The book asks how ethnic boundaries and support for ethnically-targeted policies
 
 ::: {.entry}
 
+[Peer-Reviewed Publication]{.entry__status}
+
 ::: {.entry__title}
 
 The Dimensions of Ethnicity: Understanding the Cognitive Architecture of Ethnic Group Membership
@@ -53,6 +55,8 @@ What makes someone belong to an ethnic group? This article examines how individu
 
 ::: {.entry}
 
+[Peer-Reviewed Publication]{.entry__status}
+
 ::: {.entry__title}
 
 The Myth of Ethnicity: Understanding the Relationship Between Genotype, Phenotype, and Ethnotype
@@ -68,6 +72,54 @@ The Myth of Ethnicity: Understanding the Relationship Between Genotype, Phenotyp
 ::: {.entry__abstract}
 
 The explosion of at-home DNA ancestry testing has unsettled how people understand their ethnic heritage and how they choose to identify. Behind these tests lies a critical intuition: if all ethnic identities have some combination of descent-based attributes in common, then they must have some combination of genetic material in common as well. But does genetic ancestry testing actually allow us to determine ethnicity? This article places the literature on ethnic identity into conversation with advances in genetic science and commercial genealogy to explain why the latter is incapable of predicting the former. The subjectivity inherent in selecting a system of categorization and the properties of gene expression and replication illustrate the difficulties involved in linking one concept to the other. Ultimately, this paper suggests that future technological advancements are unlikely to resolve these tensions, and urges the field of political science to be vigilant in educating communities about the differences between genetic ancestry and ethnotype.
+
+:::
+
+:::
+
+::: {.entry}
+
+[Working Paper]{.entry__status}
+
+::: {.entry__title}
+
+Fixed or Fluid? The Malleability of Ethnic Group Boundaries
+
+:::
+
+::: {.entry__meta}
+
+Preparing for submission to *Nationalities Papers*
+
+:::
+
+::: {.entry__abstract}
+
+How malleable are ethnic group boundaries? Although existing research demonstrates that ethnic identification can respond to political, economic, and institutional incentives, less is known about whether such interventions alter individuals’ underlying beliefs about who counts as a member of an ethnic group. This paper examines whether top-down institutional definitions of ethnicity can shift these boundaries. Drawing on two survey experiments with White, Black, and Latino adults in the United States, I test whether respondents’ understandings of ethnic membership change when affirmative action policies define eligibility using either more easily acquired cultural attributes, such as cuisine and neighborhood, or more ascriptive traits, such as ancestry and appearance. Across measures of both the importance of individual identity attributes and the relative ranking of those attributes, I find substantial variation in how individuals understand ethnic boundaries but relatively little evidence that these understandings change in response to the experimental treatments. A supplementary conjoint experiment among Latino respondents similarly finds little evidence that the treatments alter classification behavior. These results suggest that ethnic boundaries are more resistant to short-term, top-down intervention than accounts emphasizing the malleability of ethnic identity might imply. More broadly, the findings highlight the importance of distinguishing changes in self-identification from changes in the social rules individuals use to determine who belongs to an ethnic group.
+
+:::
+
+:::
+
+::: {.entry}
+
+[Working Paper]{.entry__status}
+
+::: {.entry__title}
+
+Who Counts as a Beneficiary? Ethnic Boundaries and Support for Affirmative Action
+
+:::
+
+::: {.entry__meta}
+
+Preparing for submission to *Political Behavior*
+
+:::
+
+::: {.entry__abstract}
+
+Why do people support or oppose affirmative action? Existing explanations often emphasize racial attitudes, beliefs about merit, or group conflict, but relatively little attention has been paid to how the definition of the policy’s beneficiary group shapes evaluations of the policy itself. This paper examines whether support for affirmative action depends on how ethnic group membership is defined. Drawing on survey experiments with White, Black, and Latino adults in the United States, I compare responses to affirmative action policies that define eligibility using more ascriptive, inherited traits and those that rely on more acquirable cultural and behavioral attributes. I find that the framing of ethnic membership significantly affects White respondents’ evaluations of affirmative action: policies that define eligibility using more ascriptive traits receive substantially more favorable evaluations than those that rely on more easily acquired characteristics. In contrast, Black and Latino respondents’ views remain comparatively stable across treatments. Additional analyses show that stronger racial or ethnic identification is associated with more favorable views of affirmative action across groups, while the relationship between socioeconomic status and policy attitudes varies by racial and ethnic identity. Together, these findings suggest that opposition to affirmative action is shaped not only by beliefs about redistribution or racial inequality, but also by perceptions of who can legitimately claim membership in the groups such policies are intended to benefit. More broadly, the results demonstrate how institutional definitions of ethnic identity can shape political attitudes even when they do not substantially alter individuals’ underlying understandings of ethnic boundaries.
 
 :::
 

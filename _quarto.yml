@@ -56,7 +56,7 @@ format:
       - styles.scss
     include-in-header:
       - _includes/fonts.html
-      - goatcounter.html
+      - _includes/goatcounter.html
     toc: false
     anchor-sections: false
     smooth-scroll: true

@@ -54,7 +54,9 @@ format:
     theme:
       - cosmo
       - styles.scss
-    include-in-header: _includes/fonts.html
+    include-in-header:
+      - _includes/fonts.html
+      - goatcounter.html
     toc: false
     anchor-sections: false
     smooth-scroll: true

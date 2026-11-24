@@ -143,11 +143,11 @@ With Brandon Bartels and Eric Kramon, I am building a global account of when pub
 
 ::: {.entry}
 
-[R&R · *Comparative Political Studies*]{.entry__status}
+[Forthcoming · *Comparative Political Studies*]{.entry__status}
 
 ::: {.entry__title}
 
-Can Public Support Insulate High Courts from Court-Curbing? Testing a Comparative Theory with a New Global Dataset
+Can the Public Insulate Judiciaries from Court-Curbing? Testing a Comparative Theory with a Global Measure of Public Support
 
 :::
 
